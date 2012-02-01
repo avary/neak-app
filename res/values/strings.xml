@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#2581B3</color>
+    <string name="hello">Hello World, neakactivity!</string>
+    <string name="app_name">N.E.A.K</string>
+    
+
+</resources>

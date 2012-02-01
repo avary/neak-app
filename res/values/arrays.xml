@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="neak_titles">
+    <item>Root</item>
+    <item>Modules</item>
+    <item>UV/Governors</item>
+    <item>OTA</item>
+</string-array>
+</resources>
